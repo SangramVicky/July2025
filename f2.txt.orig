@@ -1,0 +1,8 @@
+its a new file
+its from local repo
+2nd file test ok
+<<<<<<< HEAD
+merge from local repo
+=======
+mergetool test
+>>>>>>> d5c84922b58a9046dc7533751fc797ca678de433

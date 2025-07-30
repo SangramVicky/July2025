@@ -1,3 +1,4 @@
 its a new file
 its from local repo
 2nd file test ok
+mergetool test

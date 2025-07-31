@@ -4,3 +4,4 @@ its from local repo
 mergetool test
 line 5 from local
 5th line from remote
+added from remote.

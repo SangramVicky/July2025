@@ -7,3 +7,4 @@ line 5 from local
 added from remote.
 6th line to test
 testing on conflict resolve.
+ORIG file check

@@ -1,7 +1,0 @@
-this is the first line of code.
-it's a like from remote repo.
-<<<<<<< HEAD
-loc testing fetch and merge.
-=======
-new testing fetch and merge.
->>>>>>> 641e2f8285971268de8848686a9016acd215431c

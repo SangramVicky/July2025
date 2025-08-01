@@ -4,9 +4,11 @@ its from local repo
 mergetool test
 line 5 from local
 5th line from remote
-<<<<<<< HEAD
+added from remote.
 6th line to test
 testing on conflict resolve.
+<<<<<<< HEAD
+ORIG file check
 =======
-added from remote.
->>>>>>> 3b5ebf326be9d4ecdbf262b1e88015b865f7fd31
+Remote ORIG
+>>>>>>> bc9d56bff810b8145a570d31482701325c87d06f

@@ -8,3 +8,4 @@ added from remote.
 6th line to test
 testing on conflict resolve.
 ORIG file check
+Remote ORIG
